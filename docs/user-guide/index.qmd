@@ -1,0 +1,43 @@
+---
+title: "IASI Platform Setup"
+---
+
+## Español
+
+`iasi-setup-platform` prepara la infraestructura necesaria para ejecutar la plataforma IASI.
+
+### Primeros pasos
+
+En Windows:
+
+```powershell
+.\bin\ps\setup.ps1
+```
+
+En Linux:
+
+```bash
+./bin/sh/setup.sh
+```
+
+El proyecto está todavía en su etapa inicial. Los scripts actuales constituyen el punto de entrada sobre el que se incorporarán progresivamente las tareas reales de preparación de la plataforma.
+
+## English
+
+`iasi-setup-platform` prepares the infrastructure required to run the IASI platform.
+
+### Getting started
+
+On Windows:
+
+```powershell
+.\bin\ps\setup.ps1
+```
+
+On Linux:
+
+```bash
+./bin/sh/setup.sh
+```
+
+The project is still at an early stage. The current scripts provide the entry point on top of which the actual platform preparation tasks will be added progressively.
